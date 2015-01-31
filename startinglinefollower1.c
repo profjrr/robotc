@@ -1,3 +1,6 @@
+// Profjrr modified for OECT2015 Lego Demos -- Jan. 2015.
+// Purpose: To demo following lines (black versus white)
+//
 #pragma config(Sensor, S3,     colour,         sensorEV3_Color)
 #pragma config(Motor,  motorB,          leftwheel,     tmotorEV3_Large, PIDControl, reversed, encoder)
 #pragma config(Motor,  motorC,          rightwheel,    tmotorEV3_Large, PIDControl, reversed, encoder)
